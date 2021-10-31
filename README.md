@@ -4,9 +4,9 @@ REST API aims to list the available parking lots based on location.
 # Features
 It relies on villages public API to retrieve the needed information. It provides certain features to manage different resources:
 
-  CRUD functionalities to manage the SIRET numbers and business information
-  "Find" endpoint to retrieve the parking lots available on real time
-  SWAGGER documentation for the provided endpoints.
+*CRUD functionalities to manage the SIRET numbers and business information
+"Find" endpoint to retrieve the parking lots available on real time
+SWAGGER documentation for the provided endpoints.
 
 # Tech
 Business Microservice uses a number of open source projects/technologies to work properly:
