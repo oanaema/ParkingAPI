@@ -1,0 +1,41 @@
+[
+    {
+      "id": "1",
+      "nom": "BLOSSAC TISON",
+      "places_restantes": 454.0,
+      "capacite": 665.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.337126307916,
+          46.5750531765
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "nom": "NOTRE DAME",
+      "places_restantes": 2.0,
+      "capacite": 65.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.345002261648,
+          46.583498748
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "nom": "HOTEL DE VILLE",
+      "places_restantes": 254.0,
+      "capacite": 965.0,
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          0.338550783802,
+          46.5793235347
+        ]
+      }
+    }
+]

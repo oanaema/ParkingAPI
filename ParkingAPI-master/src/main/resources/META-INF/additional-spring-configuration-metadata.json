@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "parkingVille.api",
+      "type": "java.lang.String",
+      "description": "Description for parkingVille.api."
+  }
+] }
